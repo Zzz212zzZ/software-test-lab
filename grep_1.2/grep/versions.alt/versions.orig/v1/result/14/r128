@@ -1,0 +1,40 @@
+1,39d0
+< extern char *sys_errlist[];
+< static char version[] = "GNU grep version 2.0";
+<      char *argv[];
+< static const char *re_error_msg[] =
+< #define COMPILE_STACK_TOP (compile_stack.stack[compile_stack.avail])
+<                    not (i.e., when the bracket expression is `[]' so
+< #define FAIL_STACK_TOP()       (fail_stack.stack[fail_stack.avail])
+< #define POP_FAILURE_ITEM() fail_stack.stack[--fail_stack.avail]
+<           p = fail_stack.stack[--fail_stack.avail];
+<      field of reg_info[reg_num] helps us tell whether or not we have
+<     regmatch_t pmatch[]; 
+< } prednames[] = {
+<   ":alpha:]", is_alpha,
+<   ":upper:]", is_upper,
+<   ":lower:]", is_lower,
+<   ":digit:]", is_digit,
+<   ":xdigit:]", is_xdigit,
+<   ":space:]", is_space,
+<   ":punct:]", is_punct,
+<   ":alnum:]", is_alnum,
+<   ":print:]", is_print,
+<   ":graph:]", is_graph,
+<   ":cntrl:]", is_cntrl,
+< 		 Note that if we're looking at some other [:...:]
+< 	m->elems[m->nelem] = s1->elems[i++];
+<      int trans[];
+<   new[len] = '\0';
+<   for (lnum = 0; left[lnum] != NULL; ++lnum)
+<       for (rnum = 0; right[rnum] != NULL; ++rnum)
+< 	  temp = comsubs(left[lnum], right[rnum]);
+<      unsigned char delta[];
+<   if (depth < delta[tree->label])
+<     delta[tree->label] = depth;
+<      struct trie *next[];
+<   next[tree->label] = tree->trie;
+< struct matcher matchers[] = {
+< 		    && (len == end - beg || !WCHAR(beg[start + len])))
+< 	  if (beg + len < buf + size && beg[len] != '\n')
+< 	    if (try + len < buf + size && WCHAR((unsigned char) try[len]))

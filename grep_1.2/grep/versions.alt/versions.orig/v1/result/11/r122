@@ -1,0 +1,4 @@
+1c1
+< target1: ../../../inputs/biginput.dat: 没有那个文件或目录
+---
+> target1: 成功

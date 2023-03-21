@@ -1,0 +1,12 @@
+4180d4179
+< zeroset(s)
+4504d4502
+< addtok(t)
+4540d4537
+< atom()
+4560d4556
+< copytoks(tindex, ntokens)
+4563d4558
+< closure()
+5446d5440
+< addlists(old, new)

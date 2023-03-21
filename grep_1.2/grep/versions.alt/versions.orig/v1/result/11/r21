@@ -1,0 +1,4 @@
+1c1
+< target1: 正则表达式太大
+---
+> target1: malformed repeat count

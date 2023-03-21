@@ -1,0 +1,10 @@
+1,7c1
+< 
+<   while ((opt = getopt(argc, argv, "0123456789A:B:CEFGVX:bce:f:hiLlnqsvwxy"))
+< 	 != EOF)
+< --
+< 
+<       c = getopt (argc, argv, "abc:d:0123456789");
+<       if (c == EOF)
+---
+> target1: 成功

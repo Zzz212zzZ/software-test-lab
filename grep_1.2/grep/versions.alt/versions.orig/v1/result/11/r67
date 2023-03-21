@@ -1,0 +1,4 @@
+1c1
+< target1: Unmatched [ or [^
+---
+> target1: Unbalanced [
