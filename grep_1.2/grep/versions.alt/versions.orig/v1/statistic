@@ -1,0 +1,14 @@
+File 'grep.c'
+Lines executed:57.82% of 3393
+Branches executed:53.52% of 3535
+Taken at least once:40.11% of 3535
+Calls executed:64.10% of 415
+Creating 'grep.c.gcov'
+
+File '/usr/include/wchar.h'
+Lines executed:0.00% of 1
+Branches executed:0.00% of 2
+Taken at least once:0.00% of 2
+No calls
+Creating 'wchar.h.gcov'
+
