@@ -19,5 +19,5 @@ with open("dif_percentages_per.csv","a") as f_csv:
             else:
                 isFail.append("1")
         isFailStr=",".join(isFail)  
-        f_csv.write(f"{bugCnt},{isFailStr}\n")
+        f_csv.write(f"{isFailStr}\n")
         
