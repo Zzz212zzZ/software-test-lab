@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{khan2014importance}
+Mohd~Ehmer Khan and Farmeena Khan.
+\newblock Importance of software testing in software development life cycle.
+\newblock {\em International Journal of Computer Science Issues (IJCSI)},
+  11(2):120, 2014.
+
+\bibitem{bertolino2007software}
+Antonia Bertolino.
+\newblock Software testing research: Achievements, challenges, dreams.
+\newblock In {\em Future of Software Engineering (FOSE'07)}, pages 85--103.
+  IEEE, 2007.
+
+\bibitem{myers2011art}
+Glenford~J Myers, Corey Sandler, and Tom Badgett.
+\newblock {\em The art of software testing}.
+\newblock John Wiley \& Sons, 2011.
+
+\bibitem{pezze2008software}
+Mauro Pezz{\`e} and Michal Young.
+\newblock {\em Software testing and analysis: process, principles, and
+  techniques}.
+\newblock John Wiley \& Sons, 2008.
+
+\end{thebibliography}
